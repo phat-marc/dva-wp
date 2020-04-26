@@ -22,24 +22,20 @@ Freshly ground pepper
 
 ### Preperation & Method
 
-1. Melt half the butter in large heavy based frying pan. Quickly brown meat in single layers,
-**meat must still be rare inside**, transfer to a bowl and set aside.
+Step 1: Melt half the butter in large heavy based frying pan. Quickly brown meat in single layers, **meat must still be rare inside**, transfer to a bowl and set aside.
 
-2. Melt the remaining butter in the pan, sauté onions until soft add whole mushrooms cook
-with lid on until tender, add sliced mushrooms and cook a further one minute.
-3. Add the flour and mustard, cook stirring one minute.
-4. Return meat to pan, increase heat, quickly, flame with brandy.
-5. Add stock and cook quickly, stirring to thicken.
-6. Add cream do not boil, heat through, scraping bottom of your pan with a spoon, this will add
-to the flavour.
-7. Add lemon juice and season to taste.
+Step 2: Melt the remaining butter in the pan, sauté onions until soft add whole mushrooms cook with lid on until tender, add sliced mushrooms and cook a further one minute.
+Step 3: Add the flour and mustard, cook stirring one minute.
+Step 4: Return meat to pan, increase heat, quickly, flame with brandy.
+Step 5: Add stock and cook quickly, stirring to thicken.
+Step 6: Add cream do not boil, heat through, scraping bottom of your pan with a spoon, this will add to the flavour.
+Step 7: Add lemon juice and season to taste.
 
 Serve on a bed of homemade tagliatelle, garnish with chopped chives and steamed vegetables.
 
 #### Chefs tips
 
 1. Steamed broccoli is a great vegetable to serve with this dish
-Wash broccoli in salted water, cut into florets, steam plus mins five minutes until just tender.
-Season and toss hot broccoli in olive oil.
+Wash broccoli in salted water, cut into florets, steam plus mins five minutes until just tender. Season and toss hot broccoli in olive oil.
 2. For a richer version omit 125ml stock and replace with 125ml extra sour cream.
 3. Add a little pasta water to tagliatelle, if necessary, if sauce gets absorbed by the pasta.
