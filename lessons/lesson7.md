@@ -4,7 +4,7 @@ Da Vinci Step by Step cookery Lessons
 
 Our cheese sauce is based on the classic white sauce “mother of sauces”. We use it in our comfort food from lasagne, brinjal parmigiana, to broccoli and cauliflower au gratin a must in our kitchen.
 
-## Ingredients:
+## Ingredients
 600ml full cream milk
 40gm butter
 40gm flour
@@ -13,14 +13,14 @@ Our cheese sauce is based on the classic white sauce “mother of sauces”. We 
 1ml ground nutmeg (optional)
 3ml salt
 
-### Preperation & Method
+### Preparation & Method
 
-Step 1: Heat milk to just below boiling point.
-Step 2: Melt butter over low heat in medium saucepan.
-Step 3: Add flour and stir with whisk or wooden spoon, stirring over low heat for 3 to 4 minutes.
-Step 4: Remove from heat, add warm milk stirring continuously, return saucepan to heat bring gently to the boil stirring, simmer gently, stirring from time to time, for about 5 minutes until thickened.
-Step 5: Add cheese and nutmeg, stir.
-Step 6: Add salt and adjust seasoning to taste.
+1. Heat milk to just below boiling point.
+2. Melt butter over low heat in medium saucepan.
+3. Add flour and stir with whisk or wooden spoon, stirring over low heat for 3 to 4 minutes.
+4. Remove from heat, add warm milk stirring continuously, return saucepan to heat bring gently to the boil stirring, simmer gently, stirring from time to time, for about 5 minutes until thickened.
+5. Add cheese and nutmeg, stir.
+6. Add salt and adjust seasoning to taste.
 
 #### Chefs tips
 

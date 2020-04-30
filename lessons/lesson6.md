@@ -4,7 +4,7 @@ Da Vinci Step by Step cookery Lessons
 
 This delicious pasta dish of beef fillet strips and button mushrooms in brandy cream sauce has won many a heart in our restaurant. It is a great dish to make for a special dinner. It is quick to make and will easily impress your guests.
 
-## Ingredients:
+## Ingredients
 50gm butter
 750gm Beef fillet, trimmed cut across the grain into thin strips about 7mm thick
 2 onions, peeled and thinly sliced
@@ -20,7 +20,7 @@ Freshly ground pepper
 
 1 x Homemade tagliatelle (as per lesson 1)
 
-### Preperation & Method
+### Preparation & Method
 
 Step 1: Melt half the butter in large heavy based frying pan. Quickly brown meat in single layers, **meat must still be rare inside**, transfer to a bowl and set aside.
 
