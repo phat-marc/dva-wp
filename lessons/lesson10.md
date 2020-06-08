@@ -4,7 +4,7 @@ Da Vinci Step by Step cookery Lessons
 
 Dark chocolate, chewy, delicious brownies, studded with pieces of chocolate say no more.
 
-## Ingredients:
+## Ingredients
 250gm salted butter, melted
 30ml sunflower oil
 250gm white sugar
@@ -19,17 +19,17 @@ Pinch salt
 Topping ingredients:
 150gm good quality dark baking chocolate
 
-### Preperation & Method
+### Preparation & Method
 
 Brownies:
-Step 1: Preheat oven at 180 degrees Celsius.
-Step 2: Line a 20cm x 28cm baking pan with baking paper.
-Step 3: Beat melted butter, oil, white and brown sugar for one minute with electric cake mixer.
-Step 4: Add eggs and vanilla essence and beat until pale in colour.
-Step 5: Sift flour, cocoa and salt in bowl, add to butter mixture, fold in gently until just combined, do not over mix.
-Step 6: Fold in half of the chopped chocolate.
-Step 7: Spoon cake mixture into baking pan. Spread gently with spatula, top with remaining chopped chocolate.
-Step 8: Bake for plus minus 30 minutes until just firm to touch allow to cool for 20 minutes.
+1. Preheat oven at 180 degrees Celsius.
+2. Line a 20cm x 28cm baking pan with baking paper.
+3. Beat melted butter, oil, white and brown sugar for one minute with electric cake mixer.
+4. Add eggs and vanilla essence and beat until pale in colour.
+5. Sift flour, cocoa and salt in bowl, add to butter mixture, fold in gently until just combined, do not over mix.
+6. Fold in half of the chopped chocolate.
+7. Spoon cake mixture into baking pan. Spread gently with spatula, top with remaining chopped chocolate.
+8. Bake for plus minus 30 minutes until just firm to touch allow to cool for 20 minutes.
 
 Topping:
 1. Melt 100gm chocolate in small bowl over hot water.

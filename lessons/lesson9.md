@@ -4,7 +4,7 @@ Da Vinci Step by Step cookery Lessons
 
 This wonderful vegetable dish is loaded with iron and can be served as a side or vegetarian main.
 
-## Ingredients:
+## Ingredients
 4 large potatoes, washed, peeled and cubed
 300 /350gm green beans, washed, topped and tailed
 1 x large bunch spinach, washed and chopped/ 500gms washed prepared swiss chard / spinach
@@ -13,13 +13,13 @@ This wonderful vegetable dish is loaded with iron and can be served as a side or
 5ml salt
 Freshly ground black pepper
 
-### Preperation & Method
+### Preparation & Method
 
-Step 1: In large saucepan bring 1 litre of salted water to the boil, add potatoes, cover with lid, simmer 10 to 15 minutes until just tender.
-Step 2: Add beans, simmer for a further 3 minutes. Then add spinach and cook for a further 2 to 3 minutes.
-Step 3: Drain in colander.
-Step 4: Return to saucepan, add garlic and olive oil. Mix well and heat through.
-Step 5: Season to taste.
+1. In large saucepan bring 1 litre of salted water to the boil, add potatoes, cover with lid, simmer 10 to 15 minutes until just tender.
+2. Add beans, simmer for a further 3 minutes. Then add spinach and cook for a further 2 to 3 minutes.
+3. Drain in colander.
+4. Return to saucepan, add garlic and olive oil. Mix well and heat through.
+5. Season to taste.
 
 #### Chefs tips
 
