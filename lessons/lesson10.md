@@ -4,7 +4,7 @@ Da Vinci Step by Step cookery Lessons
 
 Dark chocolate, chewy, delicious brownies, studded with pieces of chocolate say no more.
 
-## Ingredients
+### Ingredients
 250gm salted butter, melted
 30ml sunflower oil
 250gm white sugar
@@ -40,7 +40,7 @@ Topping:
 Chocolate curls: 
 Using remaining 50gm chocolate. Scrape along smooth side of the bar with a potato peeler or sharp paring knife to make the curls.
 
-#### Chefs tips
+### Chefs tips
 
 1. Remove cake from oven after 30 minutes and brownies will be chewy inside.
 2. Melt chocolate over hot, not boiling water. If the water comes to the boil it will cause the chocolate to harden.
